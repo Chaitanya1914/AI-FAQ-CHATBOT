@@ -1,0 +1,152 @@
+[
+  {
+    "category": "Shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping typically takes 5-7 business days. Express shipping is available for 2-3 business day delivery. You'll receive a tracking number via email once your order ships."
+  },
+  {
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 100 countries worldwide. International shipping usually takes 10-15 business days depending on customs clearance in your country."
+  },
+  {
+    "category": "Shipping",
+    "question": "How much does shipping cost?",
+    "answer": "Standard shipping is $5.99 for orders under $50, and free for orders over $50. Express shipping is a flat rate of $15.99 regardless of order value."
+  },
+  {
+    "category": "Shipping",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "You can change your shipping address within 1 hour of placing the order by contacting our support team. Once the order starts processing, we cannot modify the address."
+  },
+  {
+    "category": "Shipping",
+    "question": "Why hasn't my tracking number updated?",
+    "answer": "Tracking numbers can take up to 24-48 hours to show movement after you receive them. If it hasn't updated after 48 hours, please contact our support team."
+  },
+  {
+    "category": "Shipping",
+    "question": "What happens if my package is lost?",
+    "answer": "If your package tracking shows no updates for 5 consecutive days, please reach out to us. We will open an investigation with the carrier and send a replacement if the package is deemed lost."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for all unused items in their original packaging. To initiate a return, go to your order history and select 'Return Item'. Refunds are processed within 5-10 business days after we receive the returned item."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Do I have to pay for return shipping?",
+    "answer": "If the return is due to our error or a defective product, we cover the return shipping costs. For all other returns, such as a change of mind, a flat fee of $4.99 will be deducted from your refund."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Can I exchange an item instead of returning it?",
+    "answer": "Yes, exchanges are permitted within 30 days of purchase. Simply initiate a return for the original item and select 'Exchange' instead of 'Refund' to choose your replacement item."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "How long will it take to get my refund?",
+    "answer": "Once we receive and inspect your returned item, your refund will be processed back to your original payment method within 5-10 business days. Your bank may take an additional 3-5 days to post the funds."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Can I return a final sale item?",
+    "answer": "Final sale items are non-returnable and non-refundable unless they arrive damaged or defective. Please check the product description carefully before purchasing final sale items."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "What should I do if I received a defective item?",
+    "answer": "We sincerely apologize for the inconvenience. Please contact our support team within 48 hours of delivery with photos of the defect, and we will arrange a free replacement or full refund immediately."
+  },
+  {
+    "category": "Payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, and Google Pay. All transactions are securely encrypted."
+  },
+  {
+    "category": "Payments",
+    "question": "Can I use multiple credit cards on one order?",
+    "answer": "Currently, our system only allows one credit card to be used per order. However, you can combine a gift card with a credit card to complete your purchase."
+  },
+  {
+    "category": "Payments",
+    "question": "Is my credit card information secure?",
+    "answer": "Yes, we use industry-standard SSL encryption to protect your payment details. We do not store your full credit card number on our servers after the transaction is complete."
+  },
+  {
+    "category": "Payments",
+    "question": "Why was my card declined?",
+    "answer": "Cards may be declined due to incorrect billing details, insufficient funds, or fraud prevention measures by your bank. Please double-check your information or contact your bank for clarification."
+  },
+  {
+    "category": "Payments",
+    "question": "Do you charge sales tax?",
+    "answer": "Sales tax is calculated based on the shipping destination and is legally required for certain states and countries. The exact tax amount will be displayed at checkout before you finalize your order."
+  },
+  {
+    "category": "Payments",
+    "question": "How do I apply a discount code?",
+    "answer": "You can enter your discount code in the 'Promo Code' field during the checkout process. Only one discount code can be applied per order."
+  },
+  {
+    "category": "Account",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can check out as a guest without creating an account. However, creating an account allows you to track orders easily, save shipping addresses, and access exclusive offers."
+  },
+  {
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "Click on the 'Forgot Password' link on the login page and enter your email address. We will send you instructions and a link to reset your password within a few minutes."
+  },
+  {
+    "category": "Account",
+    "question": "How can I unsubscribe from promotional emails?",
+    "answer": "You can unsubscribe at any time by clicking the 'Unsubscribe' link at the bottom of any promotional email we send you, or by updating your preferences in your account settings."
+  },
+  {
+    "category": "Account",
+    "question": "How do I delete my account?",
+    "answer": "To request account deletion, please email our privacy team at privacy@example.com from the email address associated with your account. We will process your request within 30 days."
+  },
+  {
+    "category": "Account",
+    "question": "Where can I view my order history?",
+    "answer": "Log in to your account and navigate to the 'My Orders' section. Here you will find a complete history of all your past and current orders, along with tracking information."
+  },
+  {
+    "category": "Account",
+    "question": "How do I update my email address?",
+    "answer": "Log into your account, go to 'Account Settings', and edit your email address. You will need to confirm the change via a verification link sent to your new email."
+  },
+  {
+    "category": "Products",
+    "question": "Are your products cruelty-free?",
+    "answer": "Yes, all our products are 100% cruelty-free. We do not test on animals, and we ensure our suppliers adhere to the same strict ethical standards."
+  },
+  {
+    "category": "Products",
+    "question": "How can I find out if an item is back in stock?",
+    "answer": "On the out-of-stock product page, you can enter your email address to be notified when the item becomes available again. We usually restock popular items within 2-4 weeks."
+  },
+  {
+    "category": "Products",
+    "question": "Do your products come with a warranty?",
+    "answer": "Yes, most of our electronics and appliances come with a standard 1-year manufacturer warranty covering defects. Please refer to the specific product page for detailed warranty information."
+  },
+  {
+    "category": "Products",
+    "question": "Where are your products manufactured?",
+    "answer": "Our products are designed in our headquarters in New York and manufactured globally, primarily in the USA, Italy, and Vietnam, adhering to fair labor practices and high-quality standards."
+  },
+  {
+    "category": "Products",
+    "question": "Can I request a custom order?",
+    "answer": "We currently do not offer custom orders or personalized products for individual customers. However, for bulk corporate orders, please contact our B2B sales team."
+  },
+  {
+    "category": "Products",
+    "question": "How do I know what size to order?",
+    "answer": "Each product page includes a detailed sizing chart and fit guide. We recommend measuring yourself and comparing it against the chart to find your perfect fit."
+  }
+]
