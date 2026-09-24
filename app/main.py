@@ -161,7 +161,7 @@ async def read_root(request: Request):
     """
     Renders the main customer-facing chat interface.
     """
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse(request=request, name="index.html")
 
 
 @app.get("/admin", tags=["UI"])
@@ -169,7 +169,7 @@ async def read_admin(request: Request):
     """
     Renders the admin dashboard for managing FAQs and viewing logs.
     """
-    return templates.TemplateResponse("admin.html", {"request": request})
+    return templates.TemplateResponse(request=request, name="admin.html")
 
 
 if __name__ == "__main__":
